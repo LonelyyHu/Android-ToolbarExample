@@ -9,3 +9,4 @@
 1. http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html
 1. [最详细的 Android Toolbar 开发实践总结](http://www.codeceo.com/article/android-toolbar-develop.html)
 1. [Android Toolbar，你想知道的都在這裡](http://yifeng.studio/2016/10/12/android-toolbar/)
+1. [Android开发：最详细的 Toolbar 开发实践总结](https://www.jianshu.com/p/79604c3ddcae)
