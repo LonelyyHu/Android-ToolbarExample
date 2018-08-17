@@ -7,3 +7,4 @@
 1. https://www.jianshu.com/p/ae0013a4f71a
 1. https://www.jianshu.com/p/79604c3ddcae
 1. http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html
+1. [最详细的 Android Toolbar 开发实践总结](http://www.codeceo.com/article/android-toolbar-develop.html)
